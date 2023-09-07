@@ -152,10 +152,10 @@ The backend of the project handles server-side logic and provides APIs for the f
 
 ## frondend-
 
-npm i
-npm start
+npm i .
+npm start .
 
 ## backend-
 
-npm i
-nodemon server.js
+npm i .
+nodemon server.js .
