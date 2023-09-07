@@ -1,5 +1,3 @@
-Certainly! Here's an updated project description for your README, including the challenge overview and mention of "TotalityCorp":
-
 # TotalityCorp E-Commerce Challenge
 
 ## Challenge Overview
@@ -149,3 +147,15 @@ The backend of the project handles server-side logic and provides APIs for the f
 - **seeder.js:** Seeder script for populating the database with sample data (if applicable).
 
 - **server.js:** The main entry point for the Node.js server, responsible for initializing and starting the server.
+
+### How to start the project
+
+## frondend-
+
+npm i
+npm start
+
+## backend-
+
+npm i
+nodemon server.js
